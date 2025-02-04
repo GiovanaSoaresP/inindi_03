@@ -1,5 +1,5 @@
 #include <Arduino.h>
-int result=0;
+int result = 0;
 
 // put function declarations here:
 int myFunction(int, int);
